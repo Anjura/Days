@@ -11,7 +11,7 @@
   - Gave hints on the procedure to solve Tower of Hanoi.
   
  ## What needs to be done?
-  - Revise teh concepts.
+  - Revise the concepts.
   - Organize the documentation and my study schedule.
   - Read about [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi).
   - Try to do the Tower of Hanoi using the hints and the reading. 
